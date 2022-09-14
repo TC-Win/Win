@@ -2,5 +2,9 @@ SEND 'Please enter the first number' TO DISPLAY
 RECEIVE firstNumber FROM KEYBOARD
 SEND 'Please enter the second number' TO DISPLAY
 RECEIVE secondNumber FROM KEYBOARD
+
+<!-- SET thirdNumber TO firstNumber * secondNumber -->
 SET third number TO firstNumber * secondNumber
+
+<!-- SEND thirdNumberTO DISPLAY -->
 SEND third TO DISPLAY
