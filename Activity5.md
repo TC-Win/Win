@@ -6,5 +6,5 @@ RECEIVE secondNumber FROM KEYBOARD
 <!-- SET thirdNumber TO firstNumber * secondNumber -->
 SET third number TO firstNumber * secondNumber
 
-<!-- SEND thirdNumberTO DISPLAY -->
+<!-- SEND thirdNumber TO DISPLAY -->
 SEND third TO DISPLAY
